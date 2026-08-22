@@ -1,6 +1,5 @@
 # Employee Payroll & Workforce Management System
 
-### 📺 [Watch the Demo Video](https://drive.google.com/file/d/1a1SIgxX-rzjO9eFm2V9I8cmFyTWBgS1J/view?usp=drivesdk)
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-6DB33F?style=flat-square&logo=springboot)
@@ -8,6 +7,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql)
 ![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=flat-square&logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
+
+
+### 📺 [Watch the Demo Video](https://drive.google.com/file/d/1a1SIgxX-rzjO9eFm2V9I8cmFyTWBgS1J/view?usp=drivesdk)
+
 
 A comprehensive, production-ready full-stack application for managing employee payroll, attendance, leave requests, and workforce operations. Built with modern technologies and best practices for scalability and maintainability.
 
